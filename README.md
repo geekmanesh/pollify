@@ -69,7 +69,7 @@ Clone this repository to your desired folder:
 
 ```sh
   # 1. Clone
-  git clone https://github.com/Dimah-code/pollify.git
+  git clone https://github.com/geekmanesh/pollify.git
   cd pollify
   # 2. create a virtual environment
   python -m venv venv
